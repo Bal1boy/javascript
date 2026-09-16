@@ -1,1 +1,2 @@
-const tomb = [1, 2, 3, 4, 5];
+let valtozo = 1;
+console.log("Hello Word");
