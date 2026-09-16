@@ -1,2 +1,6 @@
-let valtozo = 1;
-console.log("Hello Word");
+let szam = 1;
+console.log("teszt");
+
+let = [];
+
+let = {};
