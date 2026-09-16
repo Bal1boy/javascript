@@ -1,6 +1,18 @@
-let szam = 15;
-console.log("hello");
+let szoveg = "szöveg";
+console.log("gyumolcs");
 
-let = [3, 2, 1];
+let = "k";
 
-let = "g";
+let = [50, 20];
+
+/*
++
++
++
++
++
++
++
++
++
+*/
