@@ -1,7 +1,7 @@
-let szam = 1;
-console.log("teszt");
+let szam = 15;
+console.log("hello");
 
-let = [];
+let = [3, 2, 1];
 
-let = {};
+let = "g";
 // ******************************
