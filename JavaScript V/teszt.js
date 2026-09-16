@@ -1,14 +1,18 @@
-let szoveg = "alma";
+let szoveg = "szöveg";
 console.log("gyumolcs");
 
-let = "dmhdmfhmdfhmdfm";
+let = "k";
 
-let = [1, 2, 3, 4, 5];
+let = [50, 20];
 
 /*
-1
-2
-3
-4
-5
++
++
++
++
++
++
++
++
++
 */
