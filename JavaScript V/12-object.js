@@ -79,8 +79,8 @@ const person = {
   city: "Budapest",
 };
 
-console.log(Object.keys(person));
-console.log(Object.values(person));
+console.log(Object.keys(person)); // [ 'name', 'email', 'age', 'city' ]
+console.log(Object.values(person)); // [ 'Kovács János', 'jani.k@gmail.com', 30, 'Budapest' ]
 console.table(person);
 console.log("----------------------------------");
 

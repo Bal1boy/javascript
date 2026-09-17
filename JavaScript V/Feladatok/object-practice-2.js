@@ -25,16 +25,16 @@ console.log("---------------------------");
 // Of -> közvetlenül a user-en érhető el a property
 for (let user of users) {
   // a for...of ciklus a user változóba minden körben a tömb aktuális objektumát menti el
-  console.log(user.userName); // key-ről átneveztem user-re!
+  console.log(user.userName); 
 }
 
 console.log("---------------------------");
 //In -> a lista key-edik elemén hívható meg a property
 for (let index in users) {
-  console.log(users[index].userName); // key-ről átneveztem indexre-re!
+  console.log(users[index].userName); 
 }
 // FONTOS: for...in vs for...of összehasonlítása
-// az in az indexet adja vissza, az of a konkrét objektumot
+// a for...in az indexet adja vissza, a for...of a konkrét objektumot
 
 console.log("---------------------------");
 console.log("1. FELADAT");
