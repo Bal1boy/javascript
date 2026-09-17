@@ -34,7 +34,7 @@ for (let index in users) {
   console.log(users[index].userName); // key-ről átneveztem indexre-re!
 }
 // FONTOS: for...in vs for...of összehasonlítása
-// az in az indexet adja vissza, az of a konkrét objektumot
+// a for...in az indexet adja vissza, a for...of a konkrét objektumot
 
 console.log("---------------------------");
 console.log("1. FELADAT");
