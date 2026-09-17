@@ -2,6 +2,6 @@ console.log("teszt");
 
 const tomb = [1, 2, 3, 4 ,5, 6];
 
-let valtozo = "szoveg";
+let valtozo = "5555";
 
-let szemely = "Bogi";
+let szemely = "gddhgdh";
