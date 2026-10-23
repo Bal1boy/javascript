@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 
-test("Beépített fixture használata", async ({page}) => {
+test("page fixture gyakoribb metódusai", async ({page}) => {
   await page.goto("https://playwright.dev/");
 
   console.log("Jelenlegi URL, nem vár rá a playwrigt, nem aszinkron", page.url());
